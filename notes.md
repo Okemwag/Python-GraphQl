@@ -58,7 +58,7 @@ The beauty is that GraphQL doesn't care about your data sources - resolvers can 
 **Subscriptions**: Real-time operations for live updates
 **Resolvers**: Functions that return data for schema fields
 
-## Python ImplementationNow let me create a comprehensive client example:## Advanced GraphQL Concepts
+## Advanced GraphQL Concepts
 
 **Schema Stitching and Federation**: Combine multiple GraphQL schemas into one unified API. This is crucial for microservices architectures where different teams own different parts of the schema.
 
